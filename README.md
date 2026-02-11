@@ -6,7 +6,7 @@ Reality VPN روی پورت 443 سالم می‌ماند.
 ---
 
 ## ⚡ اجرای مستقیم
-برای نصب و اجرای سریع کافیست روی سرور بزنید:
+برای نصب و اجرای سریع کافیست روی سرور (خارج) بزنید:
 
 ```bash
 bash <(curl -fsSL https://raw.githubusercontent.com/SOROSH-Programmer/THESOROSH/main/install.sh)
